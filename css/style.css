@@ -1,0 +1,18 @@
+@import "header/header.css";
+@import "main/main.css";
+@import "resolucao/resolucao.css";
+@import "FSA/FSA.css";
+@import "FSA/grid.css";
+@import "footer/footer.css";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    max-width: 1400px;
+    background: 	#1C1C1C;
+}

@@ -1,0 +1,42 @@
+.container-filme{
+    width: 100%;
+    margin: 0px  auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.filme-item h1{
+    color: #f7f7f7;
+    font-size: 1.5em;
+    margin: 20px 10px;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+
+.filmes{
+    width: 155px;
+    gap: 10px;
+    margin-left: 12px;;
+}
+
+.filmes a,p{
+    display: block;
+    text-align: center;
+    color: #f7f7f7;
+    margin: 10px;
+}
+
+
+.filmes a{
+    background: #4F4F4F;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.filmes a:hover{
+    background: #808080;
+    border-radius: 8px;
+}
+

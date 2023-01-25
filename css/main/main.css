@@ -1,0 +1,22 @@
+.conteudo-main{
+    width: 600px;
+    margin: 40px auto;
+    height: 50px;
+}
+
+.conteudo-main a{
+    color: #000000;
+    text-decoration: none;
+    margin: 5px 10px;
+    display: inline-block;
+    padding: 10px 10px;
+    background: #4F4F4F;
+    border-radius: 8px;
+    color: #f7f7f7;
+    transition: 0.3s;
+}
+
+.conteudo-main a:hover{
+    background: #808080;
+    border-radius: 8px;
+}
